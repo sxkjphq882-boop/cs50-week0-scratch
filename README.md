@@ -17,4 +17,4 @@ You can experience the game firsthand on the Scratch website:
 I am incredibly motivated to complete the upcoming weeks and tackle the challenges of C, Python, and SQL. My ultimate goal is to master these fundamentals and earn my *CS50 Certificate*! 🎓
 
 ---
-Stay tuned for more updates as I progress through the course! 💻✨
+Stay tuned for more updates as I progress through the course! 💻
